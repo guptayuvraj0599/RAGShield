@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "doc1",
+    "source": "university_handbook",
+    "text": "The university library is open from 9 AM to 8 PM on working days. Students must carry their university identity cards to access the library."
+  },
+  {
+    "id": "doc2",
+    "source": "university_handbook",
+    "text": "Students can borrow up to three books at a time. The standard borrowing period is fourteen days, subject to university library rules."
+  },
+  {
+    "id": "doc3",
+    "source": "it_helpdesk",
+    "text": "Students should contact the university IT helpdesk for official assistance with university email accounts and campus network connectivity."
+  },
+  {
+    "id": "doc4",
+    "source": "academic_handbook",
+    "text": "Students should consult the official academic calendar and university examination notifications for examination dates."
+  },
+  {
+    "id": "doc5",
+    "source": "university_handbook",
+    "text": "The university identity card should be presented when requested by authorised university staff."
+  }
+]
